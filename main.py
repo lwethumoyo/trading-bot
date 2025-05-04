@@ -8,9 +8,9 @@ from datetime import datetime
 app = Flask(__name__)
 
 # === Your credentials here ===
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
-API_KEY = "YOUR_MARKET_API_KEY"  # Replace if needed
+BOT_TOKEN = "8078513994:AAGPkKjKskHHi6CS60Vcds91zD3TPqdRsHk"
+CHAT_ID = "6691656994"
+API_KEY = "f08525d9a49041dfaeb3805f8dad7908"  # Replace if needed
 
 # === Settings ===
 symbols = {
